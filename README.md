@@ -24,8 +24,9 @@ A beautiful, dark-mode enabled weather app that allows an user to check the weat
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
+<img width="437" alt="Screenshot 2022-04-15 at 00 31 33" src="https://user-images.githubusercontent.com/56184525/163460292-8465df70-1d90-4496-b42d-c00248df798e.png">
 
-<img width="414" alt="Screenshot 2022-04-15 at 00 35 11" src="https://user-images.githubusercontent.com/56184525/163460018-9ddee573-e419-4b61-a712-08a7042e3b32.png">
+<img width="411" alt="Screenshot 2022-04-15 at 00 31 57" src="https://user-images.githubusercontent.com/56184525/163460319-84fd49b7-a855-4bb1-8074-be4cc26fb1a4.png">
 
-<img width="437" alt="Screenshot 2022-04-15 at 00 31 33" src="https://user-images.githubusercontent.com<img width="411" alt="Screenshot 2022-04-15 at 00 31 57" src="https://user-images.githubusercontent.com/56184525/163460008-66163f6a-c018-45de-b02f-ab35dd9354ef.png">
-/56184525/163459990-8889fb25-7f40-458a-915e-6dedde12d535.png">
+<img width="414" alt="Screenshot 2022-04-15 at 00 35 11" src="https://user-images.githubusercontent.com/56184525/163460334-f0b8c969-2618-4230-8457-28ec278dbaa0.png">
+
