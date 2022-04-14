@@ -16,7 +16,7 @@ class WeatherViewController: UIViewController, UITextFieldDelegate, WeatherManag
     @IBOutlet weak var searchFieldText: UITextField!
     
     @IBAction func searchPressed(_ sender: UIButton) {
-        searchFieldText.endEditing(true)
+        searchFieldText.endEditing(true)a
         print(searchFieldText.text!)
     }
     
