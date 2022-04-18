@@ -18,7 +18,7 @@ struct WeatherModel {
     
     let cityName: String
     let conditionId: Int
-    
+   
     var conditionName: String {
         switch conditionId {
             case 200...232:
